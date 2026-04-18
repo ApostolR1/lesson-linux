@@ -1,28 +1,15 @@
-<!DOCTYPE html>
-<html>
-<head>
-    <title>Linux Homework</title>
-</head>
+# Linux Basic Commands
 
-<body>
+**Author:** Serhii Dobrokhvist  
+**Date:** 2026-04-18
 
-<h1>Linux Basic Commands</h1>
+---
 
-<p><strong>Author:</strong> Serhii Dobrokhvist</p>
-<p><strong>Date:</strong> 2026-04-18</p>
+## 1. pwd
 
-<hr>
+### Description
+The `pwd` command shows the current directory.
 
-<h2>1. pwd</h2>
-
-<h3>Description</h3>
-<p>The `pwd` command shows the current directory.</p>
-
-<h3>Command</h3>
-<pre>
+### Command
+```bash
 pwd
-</pre>
-
-</body>
-
-</html>
