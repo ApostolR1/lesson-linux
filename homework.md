@@ -43,7 +43,7 @@ ls -la
 ## 4. cd /dir
 
 ### Description 
-The `cd /dir` command is needed to navigate to the desire directory
+The `cd /dir` command is needed to *navigate* to the desire directory
 
 ```bash
 cd /
@@ -54,7 +54,7 @@ cd /
 ## 5. cd ..
 
 ### Description 
-The `cd ..` command is need to go to higher level directory
+The `cd ..` command is need to go to *higher level directory*
 
 ```bash
 cd ..
@@ -65,7 +65,7 @@ cd ..
 ## 6. cd ~
 
 ### Description 
-The `cd ~` command goes to the home directory 
+The `cd ~` command goes to the *home directory* 
 
 ```bash
 cd ~
