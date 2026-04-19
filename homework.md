@@ -1,7 +1,8 @@
 # Linux Basic Commands
+## Navigation 
 
-**Author:** Serhii Dobrokhvist  
-**Date:** 2026-04-18
+**Author:** ApostolR1 
+**Date:** 2026-04-19
 
 ---
 
