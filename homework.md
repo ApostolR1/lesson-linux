@@ -14,5 +14,6 @@ The `pwd` command shows the current directory.
 ```bash
 pwd
 
+```
 ![typing a command in the terminal](pwd.png)
 
