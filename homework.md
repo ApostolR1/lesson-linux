@@ -13,3 +13,6 @@ The `pwd` command shows the current directory.
 ### Command
 ```bash
 pwd
+
+![typing a command in the terminal](pwd.png)
+
