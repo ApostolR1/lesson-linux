@@ -35,6 +35,7 @@ ls
 ### Description
 The `ls -la` command *displays* deteiled list of files and permissions
 
+### Command 
 ```bash
 ls -la 
 
@@ -46,6 +47,7 @@ ls -la
 ### Description 
 The `cd /dir` command is needed to *navigate* to the desire directory
 
+### Command
 ```bash
 cd /
 
@@ -57,6 +59,7 @@ cd /
 ### Description 
 The `cd ..` command is need to go to *higher level directory*
 
+### Command
 ```bash
 cd ..
 
@@ -68,6 +71,7 @@ cd ..
 ### Description 
 The `cd ~` command goes to the *home directory* 
 
+### Command
 ```bash
 cd ~
 
