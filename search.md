@@ -16,7 +16,7 @@ The `find / -name "*.txt" 2>/dev/null` command need for search, **ignoring error
 find / -name "*.txt" 2>/dev/null 
 
 ```
-![typing command in the terminal](find-name.png)
+![typing command in the terminal](Fcommand/find-name.png)
 
 ## 2. grep "text" file.txt
 
@@ -28,7 +28,7 @@ The `grep "text" file.txt` command need for find lines of text in a file
 grep "text" file.txt
 
 ```
-![typing command in the terminal](grep.png)
+![typing command in the terminal](Fcommand/grep.png)
 
 ## 3. grep -r "text" /folder/
 
@@ -40,7 +40,7 @@ The `grep -r "text" /folder'` command need for find lines for text in a file **r
 grep -r "text" /folder/
 
 ```
-![typing command in the terminal](grep-r.png)
+![typing command in the terminal](Fcommand/grep-r.png)
 
 ## 4. which python
 
@@ -52,7 +52,7 @@ The `which python" command shows where the python **executable** file is located
 which python
 
 ```
-![typing command in the terminal](which.png) 
+![typing command in the terminal](Fcommand/which.png) 
 
 ## 5. whereis python
 
@@ -64,4 +64,4 @@ The `whereis pytnon` command for search python files **(bin,source code,man)**
 whereis python 
 
 ```
-![typing command in the terminal](whereis.png)
+![typing command in the terminal](Fcommand/whereis.png)
