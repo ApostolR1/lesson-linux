@@ -16,7 +16,7 @@ The `pwd` command *shows* the current directory
 pwd
 
 ```
-![typing a command in the terminal](pwd.png)
+![typing a command in the terminal](Fcommand/pwd.png)
 
 ## 2. ls
 
@@ -28,7 +28,7 @@ The `ls` command *displays* a list of folders and files
 ls
 
 ```
-![typing a command in the terminal](ls.png)
+![typing a command in the terminal](Fcommand/ls.png)
 
 ## 3. ls -la
 
@@ -40,7 +40,7 @@ The `ls -la` command *displays* deteiled list of files and permissions
 ls -la 
 
 ```
-![typing a command in the terminal](ls-la.png)
+![typing a command in the terminal](Fcommand/ls-la.png)
 
 ## 4. cd /dir
 
@@ -52,7 +52,7 @@ The `cd /dir` command is needed to *navigate* to the desire directory
 cd /
 
 ```
-![typing command in the terminal](cd0.1.png)
+![typing command in the terminal](Fcommand/cd0.1.png)
 
 ## 5. cd ..
 
@@ -64,7 +64,7 @@ The `cd ..` command is need to go to *higher level directory*
 cd ..
 
 ```
-![typing command in the terminal](cd0.2.png)
+![typing command in the terminal](Fcommand/cd0.2.png)
 
 ## 6. cd ~
 
@@ -76,4 +76,4 @@ The `cd ~` command goes to the *home directory*
 cd ~
 
 ```
-![typing command in the terminal](cd0.3.png)
+![typing command in the terminal](Fcommand/cd0.3.png)

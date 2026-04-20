@@ -16,7 +16,7 @@ The `touch try.txt` command witch used for create **text file** with name try.tx
 touch 
 
 ```
-![typing command in the terminal](touch.png)
+![typing command in the terminal](Fcommand/touch.png)
 
 ## 2. mcdir lessons 
 
@@ -28,7 +28,7 @@ The `mcdir lessons` command for create **directive** lessons
 mcdir
 
 ```
-![typing command in the terminal](mcdir.png)
+![typing command in the terminal](Fcommand/mcdir.png)
 
 ## 3. rm try.txt 
 
@@ -40,7 +40,7 @@ The `rm try.txt` command for **delete** file, in this case i deleted try.txt
 rm
 
 ```
-![typing command in the terminal](rm.png)
+![typing command in the terminal](Fcommand/rm.png)
 
 ## 4. rm -r lessons 
 
@@ -52,7 +52,7 @@ The `rm -r` command for *delete* **full derective** with files inside, in this e
 rm -r
 
 ```
-![typing command in the terminal](rm-r.png)
+![typing command in the terminal](Fcommand/rm-r.png)
 
 ## 5. cp first.txt okay.txt 
 
@@ -64,7 +64,7 @@ The `cp` command for **copy file**, in this example i was copy file first.txt an
 cp
 
 ```
-![typing command in the terminal](cp.png)
+![typing command in the terminal](Fcommand/cp.png)
 
 ## 6. mv
 
@@ -76,8 +76,8 @@ The `mv` command using for two case **for rename** and **for move** file into fo
 mv
 
 ```
-![typing command in the terminal](mv1.png)
-![typing command in the terminal](mv2.png)
+![typing command in the terminal](Fcommand/mv1.png)
+![typing command in the terminal](Fcommand/mv2.png)
 
 ## 7. cat
 
@@ -89,7 +89,7 @@ The `cat` commands **shows** content file, i actived this command with **file 22
 cat
 
 ```
-![typing command in the terminal](cat.png)
+![typing command in the terminal](Fcommand/cat.png)
 
 ## 8. less
 
@@ -101,7 +101,7 @@ The `less` command shows contents of a file page by page
 less
 
 ```
-![typing command in the terminal](less.png)
+![typing command in the terminal](Fcommand/less.png)
 
 ## 9. head -n 10
 
@@ -113,7 +113,7 @@ The `head -n 10` command shows **the first** 10 lines of the file, this value is
 head -n x
 
 ```
-![typing command in the terminal](head-n.png)
+![typing command in the terminal](Fcommand/head-n.png)
 
 ## 10. tail -n 10 
 
@@ -125,7 +125,7 @@ The `tail -n 10` command **shows** the last 10 lines of the file, this value is 
 tail -n x
 
 ```
-![typing command in the terminal](tail-n.png)
+![typing command in the terminal](Fcommand/tail-n.png)
 
 ## 11. tail -f 
 
@@ -137,4 +137,4 @@ The `tail -f` command monitoring the file **in real time**
 tail -f
 
 ```
-![typing command in the file](tial-f.png)
+![typing command in the file](Fcommand/tial-f.png)
